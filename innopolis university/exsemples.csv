@@ -1,0 +1,11 @@
+seniority,gender,own_car,own_realty,children,income_total,income_type,education_type,family_status,housing_type,mobil,work_phone,phone,email,job_type,fam_members,time_employed,age
+2,M,Y,Y,Отсутствуют,10_quantile,Working,Highereducation,Civilmarriage,Rentedapartment,Есть,Есть,Есть,Есть,Неизвестно ,Два ,10-15 лет ,30-40 
+3,M,Y,N,Один или два,2_quantile,Commercialassociate,Secondary/secondaryspecial,MarriedSingle/notmarried,House/apartment,Есть,Нет,Нет,Нет,Услуги ,Один ,1-5 лет ,50-60 
+1,M,Y,Y,Более чем двое,9_quantile,Pensioner,Incompletehigher,SeparatedWidow,Municipalapartment,Есть,Есть,Есть,Есть,Офис ,Более трех ,5-10 лет ,более чем 60 
+4,F,N,Y,Отсутствуют,3_quantile,Stateservant,Lowersecondary,Single/notmarried,Withparents,Есть,Нет,Нет,Нет,Рабочие,Три,15-20 лет ,40-50 
+5,F,N,Y,Один или два,6_quantile,Student,Academicdegree,Single/notmarried,Co-opapartment,Есть,Есть,Есть,Есть,Неизвестно ,Два ,более 20 ,до 30
+0,F,N,Y,Более чем двое,5_quantile,Commercialassociate,Secondary/secondaryspecial,Single/notmarried,Officeapartment,Есть,Нет,Нет,Нет,Услуги ,Один ,менее года,30-41
+6,F,N,Y,Отсутствуют,7_quantile,Commercialassociate,Secondary/secondaryspecial,Single/notmarried,House/apartment,Есть,Есть,Есть,Есть,Офис ,Более трех ,10-15 лет ,50-61
+2,F,N,Y,Один или два,8_quantile,Pensioner,Highereducation,Separated,House/apartment,Есть,Нет,Нет,Нет,Рабочие,Три,1-5 лет ,более чем 61
+2,F,N,Y,Более чем двое,1_quantile,Pensioner,Highereducation,Separated,House/apartment,Есть,Есть,Есть,Есть,Неизвестно ,Два ,5-10 лет ,40-51
+2,F,N,Y,Отсутствуют,4_quantile,Pensioner,Highereducation,Separated,House/apartment,Есть,Нет,Нет,Нет,Услуги ,Один ,15-20 лет ,до 31
